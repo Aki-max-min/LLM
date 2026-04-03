@@ -13,9 +13,9 @@ It demonstrates the **complete preprocessing workflow** used in Large Language M
 
 ---
 
-## ⚙️ Features
+##  Features
 
-### 🔹 1. Custom Tokenizer (SimpleTokenizerV2)
+###  1. Custom Tokenizer (SimpleTokenizerV2)
 
 * Converts text into tokens using regex
 * Handles unknown tokens using `<|unk|>`
