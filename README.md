@@ -1,6 +1,6 @@
-# 🧠 LLM Tokenizer & Dataset Pipeline (From Scratch + GPT-2)
+# LLM Tokenizer & Dataset Pipeline (From Scratch + GPT-2)
 
-## 📌 Overview
+##  Overview
 
 This project implements a **basic tokenizer from scratch**, integrates **OpenAI GPT-2 tokenization using tiktoken**, and builds a **PyTorch dataset pipeline** for training language models.
 
