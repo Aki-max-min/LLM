@@ -46,7 +46,7 @@ It demonstrates the **complete preprocessing workflow** used in Large Language M
 
 ---
 
-### 🔹 4. Dataset Creation for LLM Training
+###  4. Dataset Creation for LLM Training
 
 Implemented using PyTorch:
 
@@ -61,7 +61,7 @@ Implemented using PyTorch:
 
 ---
 
-### 🔹 5. DataLoader Pipeline
+###  5. DataLoader Pipeline
 
 * Batch processing
 * Shuffle & stride control
@@ -69,7 +69,7 @@ Implemented using PyTorch:
 
 ---
 
-### 🔹 6. Embeddings
+###  6. Embeddings
 
 * Token embeddings
 * Positional embeddings
@@ -77,7 +77,7 @@ Implemented using PyTorch:
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 
 ```
 project/
@@ -89,7 +89,7 @@ project/
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 ### Step 1: Tokenization
 
@@ -123,7 +123,7 @@ embedding = token_embedding_layer(input_ids)
 
 ---
 
-## 📚 Key Concepts Covered
+##  Key Concepts Covered
 
 * Tokenization (basic + GPT-2)
 * Vocabulary mapping
@@ -138,7 +138,7 @@ embedding = token_embedding_layer(input_ids)
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```bash
 pip install torch tiktoken
@@ -146,7 +146,7 @@ pip install torch tiktoken
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 By completing this project, you will understand:
 
@@ -157,21 +157,11 @@ By completing this project, you will understand:
 
 ---
 
-## 🔥 Future Improvements
+##  Future Improvements
 
 * Add BPE tokenizer implementation
 * Train a mini GPT model
 * Add attention mechanism
 * Build full transformer from scratch
 
----
 
-## 👩‍💻 Author
-
-Akshita Singh Tyagi
-
----
-
-## ⭐ If you found this useful
-
-Give this repo a star ⭐ and share it!
