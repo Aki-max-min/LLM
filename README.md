@@ -26,7 +26,7 @@ It demonstrates the **complete preprocessing workflow** used in Large Language M
 
 ---
 
-### 🔹 2. Vocabulary Creation
+###  2. Vocabulary Creation
 
 * Unique tokens extracted from dataset
 * Special tokens added:
@@ -34,11 +34,11 @@ It demonstrates the **complete preprocessing workflow** used in Large Language M
   * `<|endoftext|>`
   * `<|unk|>`
 
-📊 Vocabulary size increases after adding special tokens 
+ Vocabulary size increases after adding special tokens 
 
 ---
 
-### 🔹 3. GPT-2 Tokenization (tiktoken)
+###  3. GPT-2 Tokenization (tiktoken)
 
 * Uses GPT-2 tokenizer for real-world LLM compatibility
 * Handles unseen words efficiently
